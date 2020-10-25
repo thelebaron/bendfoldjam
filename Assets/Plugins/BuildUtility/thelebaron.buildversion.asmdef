@@ -1,0 +1,19 @@
+{
+    "name": "BuildUtility",
+    "rootNamespace": "",
+    "references": [
+        "GUID:363a3288c06c1c14cbbeedbda31215f9",
+        "GUID:734d92eba21c94caba915361bd5ac177"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
